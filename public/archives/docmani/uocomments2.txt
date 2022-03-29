@@ -1,0 +1,119 @@
+This is a followup to the comments I sent before.
+I'm still enjoying the game immensely. Great job.
+
+Here are some suggestions I'd like to offer:
+
+- Other platforms: The only reason Windows 95
+is on my system is so I can play UO. Thats it.
+My computer can handle it (I have a P120 with
+16 megs + PCI video), I just personally don't
+like it. Please support other platforms. If
+not DOS then at least support Linux! Also, 
+if you support Workstation computers, such
+as Sun, DEC, or even SGI, I'm sure you will
+be responsible for a huge drop in productivity 
+around the world!
+
+- Level disparities and quests: My big problem
+is that I could not play 24 hours a day. I also
+did not get the advantage of having a QA person
+lead me through a quest.  As such, while there
+were several level 30+ people walking around,
+I was merely a level 10.  This is bound to happen,
+and I understand, but the problem came when you
+guys decided to challenge these 30+ people with 
+more powerful and more frequent monsters. This 
+was great for them, but I saw a fair share of 
+low level people get pounced on by multiple 
+orc captains. This is a game. It is supposed
+to be fun. On an added note, I'm sorry I didn't
+get to go on the quest. I wanted to really bad,
+but I just didn't make it to a high enough level.
+In the final product, please put in some quests for
+low level people, as well as high level people.
+Maybe even barr high level people from entering
+a low level quest, to make things fair.  It was
+frustrating finally being able to fight skeletons,
+yet entering the cemetary only to watch someone
+with a fireball want kill everything before I 
+could even swing at it.
+
+- Player Killers: I know there will be alot of
+complaints about this one. Please don't take this
+option out of the game. I did not kill any fellow
+players, but people should not be constrained. There
+should be consequences for their actions, however.
+Guards should not let known Player Killers walk 
+freely in towns. Maybe even create rewards for
+known Player Killer's capture/death. Special 
+awards low level players would not be able to
+offer.
+
+- Keep the consequence of dying in the game.
+It might not be fun to lose all your stuff when
+you die, but it does keep a balance in the game.
+Especially if someone manages to kill a player
+killer who owns a fireball wand. They lose their
+advantage
+
+- Speaking of fireball wands, these were a little
+too powerful. There was too large a jump from
+the 2nd most powerful weapon (Axe, from what I
+could tell) to most powerful (Fireball wand).
+For alot of people, there was no way to get a
+wand without completing the quest. And there
+was almost no way to complete the quest without
+someone along who already had a wand! Viscious
+circle. Please avoid this!
+
+- Bulliten Board: Please add in a proper messaging
+system in the final product. So people can send
+notes to one and other directly.  At least remove
+posts from the board which are more than one day old!
+
+- Spells that should appear in the final version:
+Communication/Telepathy - For sending a message to
+another player logged in, not currently on your screen
+Locate - To locate another player
+
+- Please add in talking to others in private/whispering
+in the final version. You could tell what someone was
+saying, even if they were inside a building. Its hard
+to plot evil deeds when everyone can see what you are
+saying!
+
+- Pricing: Please charge a reasonable monthly fee,
+instead of an hourly rate. A later would make me
+very poor, very quickly. 
+
+- One final note. If you want to truly build a world,
+you might need some outsiders to help. Allowing for
+'Dungeon Masters' inside the game would be great. 
+I talked with some friends about this and we agreed 
+that you have created the feel of traditional D&D 
+on the computer. Allowing some users to set up 
+personalized quests for parties of adventurers 
+would make this game quite enjoyable. Aquisition 
+of powerful magic items could be regulated by forcing
+those magic items to be owned by particular monsters. 
+The quest could then be set up with a plot particular
+to those involved. Perhaps charging extra so a player
+can be a DM. That way a group of friends could pool 
+together to make one person a DM and share the
+enjoyment. I mean going on a generic quest is one
+thing, but going on an adventure with your friends
+to rescue your sister from your long time nemesis
+is personalized and more fun. Its something to consider.
+
+---------------------
+
+Again, I ask that you PLEASE have a public beta test.
+This was so much fun, and I put alot of time into it.
+I'm happy to help in whatever way I can to produce
+an enjoyable product for all.
+
+
+Thanks for letting me test.
+
+	-John Sabean
+

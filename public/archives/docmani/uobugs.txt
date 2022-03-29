@@ -1,0 +1,61 @@
+This is a general bug report. Problems I've noticed while
+playing the game. I've catagorized them according to how
+frequently they occur.
+
+Obvious problems (which you probably already know about):
+- "The Naked Bug" - Sometimes when starting the client,
+my character starts out naked, bald, and with no backpack.
+This seems to happen more frequently when I have a bad
+connection (IE alot of net lag)
+
+- "Disappearing Monsters" - Sometimes during combat, the
+monster I'm fighting disappears. Its still there. I can
+still fight and even kill it (or be killed by it). If
+I move away, it comes back (sometimes). It happened about
+once every couple of hours and appeared to be random.
+
+- Lighting - Alot of the time, when it was supposed to be
+dark, I would start the client and the lighting would be
+full daytime lighting. This was fairly random, but it
+happened alot. Sometimes parts of the screen would become
+lit.  As I walked over them the area where my character
+stepped would be set to the proper, dark, shade, whereas
+other areas, where I did not walk remained lit.
+
+
+Frequently annoying problems:
+- Object under trees and behind walls, that could not be
+picked up.
+
+- Non-player characters in other buildings would reply
+to things I said.
+
+- Sometimes when I manipulated my inventory too quickly
+(like trying to take all the weapons off of a dead body
+before someone else got to them), the client would crash.
+It seemed like the only common thread here was if I was 
+doing too much at once (open paper doll, open inventory,
+close paper doll while inventory was loading, open 
+dead corpse, move the dead corpse window, and quickly 
+start moving objects around while things were still
+loading). It sort of hard to convey in a bug report.
+Just imagine yourself. You've just killed your very
+first knight. Two PCs walk up to you and congratulate
+you and you feverishly are trying to grab all his stuff
+before they can! This happened to me a couple of times.
+
+Infrequent, but significant problem:
+- Instant kill bug. On two occasions, I had full
+hit points (40+). I walked up to an orc, initiated
+combat and he instantly killed me. (I don't remember
+if he actually hit me or not)
+
+A general request (this isn't a bug, more of a technical
+comment):
+
+- Can you do something about the flickering mouse
+cursor? Its disconcerting sometimes.
+
+
+
+PS - Great game guys!

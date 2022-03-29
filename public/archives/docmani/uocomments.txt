@@ -1,0 +1,61 @@
+First of all, let me say that what you have so far is really great.
+Speaking as a game programmer, I know what you have to work with as
+far as the graphics and the networking, and I must say I'm impressed.
+Definately a great job so far.
+
+Some comments about the game player overall:
+
+- I love the automatic combat. This was a big problem in Ultima VII and 
+Ultima VIII. You had to find the tiny little spot to double click on
+to keep fighting. I can now do it once, then go though my inventory,
+get out and use my spell book, without worrying getting the tar
+kicked out of me. Thanks for including this. My only comment here is
+that I saw one circumstance while online of a two players who wanted to
+group together. One jokingly attacked the other while in the city.
+Unfortunately, he kept attacking him whenever they got close (we were
+all on our way out of the city.)  There should be a way to designate
+no target here, so this doesn't happen. Players online will joke around
+and take a swipe or two at each other, not meaning it to become a
+battle to the death. (Sort of like swatting a friend on the head with
+a hat after he/she has made a stupid comment....)
+
+- A circumstance I ran into last night was a player who obviously had
+alot of magic items and was very high level, was beating up first level
+people for fun. Even a gang of us could not take this guy down. The guards
+were of no help because he killed them just as easily. Some safegaurds
+need to be put in to keep this from happening. (Perhaps if a player does 
+this too much, bounties are place on he/she. When they enter a town, if
+they are wanted for crimes there, the guards automatically attack them.)
+
+- Speaking of dieing, the whole 'lose all your equipment' thing sort of 
+bothered me. I liked it, but I didn't like it. I liked it in the sense 
+that there was a real consequence of dieing. That and you could kill
+a fellow PC to get their equipment. However, if you die and don't get back
+to your corpse, its almost like starting from scratch again. This was
+a big problem for alot of people. There were alot of naked people killing
+rabbits last night! They weren't happy either.
+
+- The skills system is great. I like the idea of making your skill better by
+using it. I like this as opposed to the instant jump in skill points by gaining
+a level. The only problem here was magic. When I started out I had a very
+large chance of failing to cast a simple healing spell. You may want to vary
+the difficulty of the various spells. Something overtly powerful like a fireball
+should be hard to cast, but something simple like healing or light should be
+easy to cast, even for someone with a low magic skill. 
+
+- Following another character. It seems as though the client handles this.
+This is annoying sometimes because in one circumstance I had a fast computer
+and fast connection, while a player who wanted to follow me, did not. I was
+constantly forced to keep waiting for him to catch up, even though he
+was set to follow me automatically. Is there any way for this to be
+done by the server, such that he would end up going the same speed as
+me, instead?
+
+Overall a great game. I've become very addicted to it and I will be
+sorry to see testing end. When you have added in the quests and other
+nicities, I'm sure I'll be playing this alot. (Just go easy on what
+you charge. You could easily make me into a very poor person, by charging
+and hourly rate... :) 
+
+Thanks for letting me test and I really hope you consider a public alpha/beta
+test. I'd be happy to give this game another shakedown.
